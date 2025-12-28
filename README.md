@@ -16,8 +16,6 @@ I am a Data & AI Architect and ML Engineer with a specialized focus on Real-Time
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cssoumyade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cssoumyade&icon=0&color=0)](https://visitcount.itsvg.in)
